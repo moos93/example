@@ -1,3 +1,3 @@
-# new to laravel 
+# New to laravel 
 
-## wish me luck 
+## Wish me luck 
